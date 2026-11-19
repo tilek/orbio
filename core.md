@@ -34,5 +34,3 @@ Members must choose one and only one chain of Units to represent them on the Cou
 | [3. Unit governance](unit-governance.md) | Local rules, enforcement, fair hearings, and authority across units |
 | [4. Life in a Circle](circles.md) | Weekly meetings, gratitude, practical support, and projects |
 | [5. Community governance](governance.md) | Council votes, leadership, succession, elections, and amendments |
-
-The [Weekly Circle Meeting Guide](weekly-circle-meeting-guide.md) is a suggested format for Circle Leads.
