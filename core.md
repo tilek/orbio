@@ -35,4 +35,4 @@ Members must choose one and only one chain of Units to represent them on the Cou
 | [4. Life in a Circle](circles.md) | Weekly meetings, gratitude, practical support, and projects |
 | [5. Community governance](governance.md) | Council votes, leadership, succession, elections, and amendments |
 
-The [Weekly Circle Meeting Agenda](weekly-circle-meeting.md) is a suggested format for Circle Leads.
+The [Weekly Circle Meeting Guide](weekly-circle-meeting-guide.md) is a suggested format for Circle Leads.
