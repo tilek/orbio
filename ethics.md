@@ -1,0 +1,15 @@
+# 1. Shared ethics
+
+## 1.1. Humane treatment
+
+**1.1.1. Dignity.** Members and units must treat every being capable of suffering with dignity.
+
+**1.1.2. Aid.** Members and units must offer reasonable aid to those who are injured or helpless.
+
+**1.1.3. Prohibited harm.** No benefit to others justifies murder, torture, or cruel or degrading treatment.
+
+**1.1.4. Defensive force.** Force used in defence must be necessary and proportionate. It must cease when the threat ends.
+
+**1.1.5. Lethal force.** Lethal force in defence is permissible only when necessary to prevent imminent death or serious injury.
+
+[Back to the Orbio charter](core.md)
