@@ -1,0 +1,37 @@
+# 3. Unit governance
+
+**3.1. Autonomy.** Each unit sets its own rules within this charter. Where the applicable rules leave a choice open, the unit decides.
+
+**3.2. Access to rules.** All unit and Community rules must be written and accessible at all times to every Orbio member.
+
+## 3.3. Required rules
+
+Each unit must state its mission. Its written rules must cover the following.
+
+- How it admits and expels members.
+- How it chooses and replaces its Lead.
+- Which behaviors it requires and which it recommends.
+- How it handles rule violations.
+- Who decides and enforces the outcome when its Lead is accused of breaking a rule.
+- How it keeps its membership within its population limit.
+- How it changes its rules.
+
+### 3.3.1. Fair hearing before expulsion
+
+Before deciding whether to expel a member, the unit must explain why it is considering expulsion, identify the applicable written rule, and give the member a reasonable opportunity to respond.
+
+After deciding, the unit must give the member its decision and reasons in writing.
+
+## 3.4. Enforcement
+
+The unit Lead enforces the unit’s rules. If the Lead is accused of breaking a rule, the unit follows its procedure under [§3.3](#33-required-rules).
+
+## 3.5. Authority across units
+
+**Changing rules.** A member unit may help change a larger unit’s rules only through the process that larger unit has adopted.
+
+**Enforcing rules.** Each unit enforces rules only at its own level. A larger unit cannot rewrite a smaller unit’s rules, direct how it enforces them, or decide whom it admits or expels.
+
+**Resolving disagreements.** A larger unit may seek agreement with a member unit, expel it if the larger unit’s rules allow, or take no action.
+
+[Back to the Orbio charter](core.md)
