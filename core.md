@@ -1,0 +1,38 @@
+# Orbio
+
+Orbio is designed to become a multiplanetary community.
+
+
+Our mission is to help life across universe flourish, now and forever.
+
+## Inspiration
+
+Orbio is inspired by humans' collaboration and accomplishments within religions and countries.
+
+## How it works
+
+Every Member belongs to at least one Circle of up to 10 people. 
+Circles meet weekly to support one another and take a concrete step toward their mission.
+
+Units structure is hierarchical.
+Each unit size level has a dedicated name.
+Circle is the smallest level of a Community Unit (or simply Unit).
+
+Each Unit has its own mission and rules within the Community Charter (or simply Charter).
+Units may remain independent inside the Community or join larger Units.
+
+Members must belong to at least one Circle.
+Members can belong to multiple Circles at once.
+Members must choose one and only one chain of Units to represent them on the Council.
+
+## Charter
+
+| Section | What it covers |
+|---|---|
+| [1. Shared ethics](ethics.md) | Humane treatment, aid, and limits on force |
+| [2. Units and membership](units.md) | Unit levels, joining, leaving, growth, and population counts |
+| [3. Unit governance](unit-governance.md) | Local rules, enforcement, fair hearings, and authority across units |
+| [4. Life in a Circle](circles.md) | Weekly meetings, gratitude, practical support, and projects |
+| [5. Community governance](governance.md) | Council votes, leadership, succession, elections, and amendments |
+
+The [Weekly Circle Meeting Agenda](weekly-circle-meeting.md) is a suggested format for Circle Leads.
