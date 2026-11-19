@@ -1,0 +1,34 @@
+# 4. Life in a Circle
+
+**4.1. Knowing one another.** Circle members must learn and remember one another’s names.
+
+## 4.2. Weekly meetings
+
+Each Circle must hold a weekly meeting accessible to all its members. At each meeting, members must ask how each person is doing, listen carefully, and offer as much emotional support as they can.
+
+The [Weekly Circle Meeting Agenda](weekly-circle-meeting.md) gives the Lead a suggested order, questions, and timing.
+
+## 4.3. Gratitude
+
+Members should express gratitude for each person’s existence, their place in the Circle, and their contributions. Each Circle’s rules should address insincere expressions of gratitude or emotional support.
+
+## 4.4. Practical support
+
+When a member asks for practical help, fellow Circle members must provide the help they reasonably can.
+
+Each helper’s commitment covers **all requests from that Circle in a given week**. The helper chooses one of the following.
+
+- Up to one hour of their time.
+- Up to 1% of their expendable resources for that week.
+
+The limit applies separately to each Circle the helper belongs to. Members may voluntarily give more.
+
+## 4.5. Weekly action
+
+Each week, the Circle chooses one concrete step to help a member or the wider world. That step may advance an ongoing project. At the next meeting, members review what happened and what they learned.
+
+## 4.6. Cross-Circle projects
+
+Members from any Circles may form a project team, choose a lead, and voluntarily commit time or resources beyond the support required by [§4.4](#44-practical-support).
+
+[Back to the Orbio charter](core.md)
